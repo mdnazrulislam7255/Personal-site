@@ -46,8 +46,8 @@ h1{
 }
 #image1{
     margin-top: 21%;
-    height: 440px;
-    width: 410px;
+    height: 445px;
+    width: 430px;
 }
 p{
     width: 100%;
@@ -61,11 +61,10 @@ p{
     height: 570px;
 }
 #image2{
-    margin-top: 18%;
-    height: 450px;
-    width: 350px;
-    margin-left: 28%;
-    margin-top: 10%;
+    margin-top: 8%;
+    height: 470px;
+    width: 370px;
+    margin-left: 25%;
 }
 .bio-text{
     margin-top: 25%;
@@ -83,6 +82,7 @@ h3{
     font-size:40px;
     font-weight: 700;
     text-align: center;
+    padding-top: 60px;
 }
 .img-width{
     width: 30%;
@@ -90,7 +90,7 @@ h3{
 }
 .latest-images{
     margin-left: 10%;
-    margin-top: 12%;
+    margin-top: 7%;
 }
 .client-bg-banner{
     background-image: url(images/footer-bg.png);
@@ -102,9 +102,10 @@ h4{
     font-size:40px;
     font-weight: 700;
     text-align: center;
+    padding-top: 70px;
 }
 .footer-text{
-    margin-top: 10%;
+    padding-top: 20px;
     text-align: center;
 }
 .statement{
