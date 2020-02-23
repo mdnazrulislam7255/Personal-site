@@ -1,0 +1,125 @@
+body{
+    font-family: 'Kanit',Georgia, 'Times New Roman', Times, serif ;
+}
+.header-bg-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 695px;
+}
+.half-width{
+    width: 42%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+} 
+h2{
+    font-size: 20px;
+    font-weight: 400;
+}
+h1{
+    font-size: 30px;
+    color: #ED4B70;
+    font-weight: bold;
+}
+.header-text {
+    margin:210px 0px 0px  195px;
+    padding: 1px 0px 20px 10px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(60deg,#EC5196,#ED4B70);
+    padding: 8px 30px;
+    color: white;
+    border-radius: 4px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+#image1{
+    margin-top: 21%;
+    height: 440px;
+    width: 410px;
+}
+p{
+    width: 100%;
+    color: gray;
+
+}
+.middle-bg-image{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 570px;
+}
+#image2{
+    margin-top: 18%;
+    height: 450px;
+    width: 350px;
+    margin-left: 28%;
+    margin-top: 10%;
+}
+.bio-text{
+    margin-top: 25%;
+    margin-left: 5%;
+
+}
+
+.latest-work-bg-banner{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 620px;
+}
+h3{
+    font-size:40px;
+    font-weight: 700;
+    text-align: center;
+
+}
+.img-width{
+    width: 30%;
+    float: left;
+}
+.latest-images{
+    margin-left: 10%;
+    margin-top: 12%;
+}
+.client-bg-banner{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 800px;
+}
+h4{
+    font-size:40px;
+    font-weight: 700;
+    text-align: center;
+}
+.footer-text{
+    margin-top: 13%;
+    text-align: center;
+}
+.statement{
+    display: flex;
+    justify-content: center;
+}
+.gmail{
+    display: flex;
+    justify-content: center;
+}
+.gmail p{
+   margin-top: 5%;
+   padding: 4% 4% 4% 4%;
+   border-radius: 5px;
+   line-height: 2;
+}
+.gmail-name{
+    font-size: 25px;
+    font-weight: 500;
+}
+.footer p{
+    text-align: center;
+}
